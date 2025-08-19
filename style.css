@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-color: lightblue;
+    width: 100%;
+    border: 3px solid red;
+    padding: 10px;
+    border-radius: 50px;}
+    th, td {
+  border: 1px solid black;
+  padding: 10px;
+ }
+caption {
+  background-color:yellow;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;}
+
+    .qizil{color:red;}
+    .aqua{color: aqua;}
+    .yashil{color: green;}
+    .sariq{color: yellow;}
+    .kok{color: blue;}
+    .qwer{background-color: red;}
+    .ras{width: 45%;}
+    td{background-color:blueviolet;}
+    .yui{background-color: green;}
+    button{color: white;
+background-color:green;
+width: 150px;}
+
